@@ -1,0 +1,2 @@
+Colocar o start no package.json para iniciar um arquivo
+npm run start p/ iniciar

@@ -1,0 +1,19 @@
+Realiza checagem total das aplicações
+npx npm-check-updates -u
+npm install
+
+
+//criar script para rodar a aplicação
+"start": "node index.js"
+
+npm install express
+npm install --save-dev nodemon
+Colocar no package.json no script:  "start": "nodemon ./index.js localhost 3000"
+
+
+
+
+//Pacotes instalados
+npm install --save-dev nodemon
+npm install express express-handlebars
+npm install mysql

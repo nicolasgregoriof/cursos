@@ -1,0 +1,3 @@
+Cria o projeto completo:
+
+npm init

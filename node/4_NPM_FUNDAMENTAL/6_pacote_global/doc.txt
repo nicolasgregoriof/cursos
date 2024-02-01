@@ -1,0 +1,7 @@
+npm init -y
+npm install -g lodash
+npm link lodash
+node index.js
+
+npx cowsay "Olá Mundo"
+npx cowsay -d "Morri!"

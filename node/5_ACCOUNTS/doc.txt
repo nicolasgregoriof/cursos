@@ -1,0 +1,15 @@
+//criar o projeto 
+npm init -y
+
+//instalar os pacotes
+npm install chalk inquirer
+
+//criei um script para rodar a aplicação
+"start": "node index.js"
+
+npm install inquirer@8.1.0
+npm install chalk@4.1.2
+
+
+npm install --> usar para instalar os pacores necessários.
+npm start --> abrir o programa 

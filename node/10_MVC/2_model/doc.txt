@@ -1,0 +1,3 @@
+Começamos do models
+    Vamos criar uma tarefa e reportar se ela está pronta ou não
+    

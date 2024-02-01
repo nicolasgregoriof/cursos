@@ -1,0 +1,15 @@
+1 - Crie um projeto com Express, Handlebars e Nodemon
+    
+    ##Passo a passo que executei
+    //Primeiros comandos
+    npm init -y
+  
+    //Pacotes instalados
+    npm install express 
+    npm install express-handlebars
+    npm install --save-dev nodemon
+
+    Colocar no package.json no script:  "start": "nodemon ./index.js localhost 3000"
+
+2 - Crie uma rota para uma home, que exibe alguns produtos de um array de objetos
+    

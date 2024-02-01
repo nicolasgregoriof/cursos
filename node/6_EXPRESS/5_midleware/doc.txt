@@ -1,0 +1,3 @@
+npm install --save-dev nodemon
+
+Colocar no package.json no script:  "start": "nodemon ./index.js localhost 3000"

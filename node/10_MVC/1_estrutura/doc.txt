@@ -1,0 +1,28 @@
+inicando o projeto: 
+    npm init -y
+
+instalando pacotes essenciais: 
+    npm install express express-handlebars mysql2 sequelize 
+    npm install --save-dev nodemon
+        package.json no script:  "start": "nodemon ./index.js localhost 3000"
+
+criando o arquivo:
+    index.js
+
+criando pastas da estruitura mvc:
+    controllers
+    models
+    routes
+    views
+    public
+
+trabalhar na conexão do banco
+    criar pasta chamada db
+    criar aquivo conn.js (arquivo de conexão)
+    realizar configurações --> descritas no cabeçalho do código do arquivo de conn.js
+
+Criar as configurações do index.js
+    consta no cabeçalho no index.js
+
+Começamos do models
+    

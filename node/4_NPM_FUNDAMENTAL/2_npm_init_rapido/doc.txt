@@ -1,0 +1,3 @@
+Cria o projeto de forma mais rápida:
+
+npm init -y
